@@ -1,6 +1,6 @@
-# Pre-work - *TipCalculator*
+# Pre-work - *MyTips*
 
-**TipCalculator** is a tip calculator application for iOS.
+**MyTips** is a tip calculator application for iOS.
 
 Submitted by: **Richard Absin**
 
