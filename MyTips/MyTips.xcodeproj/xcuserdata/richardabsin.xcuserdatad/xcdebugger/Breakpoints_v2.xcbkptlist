@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyTips/ViewController.swift"
+            timestampString = "568600909.938548"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTips.ViewController.billField.getter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MyTips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardabsin/Desktop/Winter%202019/CodePath/MyTips/MyTips/ViewController.swift"
+                  timestampString = "568600129.030115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTips.ViewController.billField.setter : weak Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "MyTips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardabsin/Desktop/Winter%202019/CodePath/MyTips/MyTips/ViewController.swift"
+                  timestampString = "568600129.033694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTips.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MyTips.ViewController"
+                  moduleName = "MyTips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardabsin/Desktop/Winter%202019/CodePath/MyTips/MyTips/ViewController.swift"
+                  timestampString = "568600129.035894"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyTips.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MyTips.ViewController&gt;"
+                  moduleName = "MyTips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/richardabsin/Desktop/Winter%202019/CodePath/MyTips/MyTips/ViewController.swift"
+                  timestampString = "568600129.03787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
